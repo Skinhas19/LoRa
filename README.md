@@ -1,0 +1,1 @@
+Projeto desenvolvido utilizando ESP32 e ESP8266 com comunicação LoRa, onde um push button conectado ao transmissor envia comandos sem fio para um receptor responsável pelo acionamento de um LED, explorando conceitos de comunicação embarcada e redes sem fio de longa distância.
